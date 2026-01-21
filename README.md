@@ -27,6 +27,6 @@
 - Reachable with each end node
 - Tracerouter to find path after primary path down.
 
-  ![alt text]()
+  ![alt text](https://github.com/rezaul1871/Network-Infrastructure-Configuration-BGP-OSPF-and-EtherChannel-for-IIG-Switch-PrimarySecondary-Links/blob/071d1bdbec99ae133c3e056bf8331f1d4d8586d9/Topology.png)
 
 This configuration framework ensures network resilience through multiple layers of redundancy, with automatic failover during link or device failures while maintaining optimal path selection during normal operations. The design principles emphasize standardization, multi-vendor compatibility where applicable, and maintainability through consistent configuration patterns.
