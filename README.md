@@ -1,0 +1,2 @@
+# Network-Infrastructure-Configuration-BGP-OSPF-and-EtherChannel-for-IIG-Switch-PrimarySecondary-Links
+**EtherChannel Modes: PAgP (desirable/auto - Cisco), LACP (active/passive - standard), and static (on). Choose LACP active for multi-vendor compatibility, PAgP desirable for Cisco-only, or static for simple setups. Each port-channel group must use one consistent protocol with matching modes on both sides for proper formation and redundancy.**
